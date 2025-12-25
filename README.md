@@ -1,0 +1,2 @@
+# Employee-Record-Management-System-using-C-Programming.
+This is my first Git Repository. The Employee Record Management System efficiently manage the complete record of Employees in an Organization. It helps to minimize paper work and manual error in data management. We can add, view, search, update, and delete employee data. The entire project is coded in C language using Structures and File Handling.
